@@ -3,6 +3,7 @@
 #include <stdlib.h>
 
 int main (void) {
-
+    char *line = NULL; // Pointer Variable to hold the string input
+    size_t cap = 0;    // Represent Capacity
 
 }
